@@ -45,7 +45,7 @@ export function AdUnit({ format, className = '', slotId = "1234567890" }: AdUnit
       <div style={{ width, height, background: 'rgba(255,255,255,0.02)', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
         <ins className="adsbygoogle"
           style={{ display: 'block', width, height }}
-          data-ad-client="ca-pub-0000000000000000" // REPLACE THIS too
+          data-ad-client="ca-pub-4513515062698703"
           data-ad-slot={slotId}
           data-ad-format="auto"
           data-full-width-responsive="true"></ins>

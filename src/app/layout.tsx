@@ -35,7 +35,7 @@ export default function RootLayout({
         <html lang="en">
             <body>
                 {/* REPLACE "ca-pub-0000000000000000" WITH YOUR REAL ADSENSE ID WHEN APPROVED */}
-                <GoogleAdSense pId="ca-pub-0000000000000000" />
+                <GoogleAdSense pId="ca-pub-4513515062698703" />
                 <Navbar />
                 <main style={{ minHeight: 'calc(100vh - var(--header-height))' }}>
                     {children}
